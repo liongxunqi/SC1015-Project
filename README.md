@@ -6,20 +6,20 @@ _Mini project for NTU's SC1015 module._
 
 **Table of Contents:**
 
-1. [About project](#about-project)
-    1. [Group Info](#group-info)
-    2. [Problem Statement](#problem-statement)
-    3. [Data Preparation](#data-preparation)
-    4. [Exploratory Analysis](#exploratory-analysis)
-    5. [Modelling](#modelling)
-    6. [Conclusions](#conclusions)
-    7. [What we learned](#what-we-learned)
-    8. [References](#references)
-2. [About Repository](#about-codebase)
+1. [Group Info](#group-info)
+2. [Problem Statement](#problem-statement)
+3. [Data Preparation](#data-preparation)
+4. [Exploratory Analysis](#exploratory-analysis)
+5. [Modelling](#modelling)
+6. [Conclusions](#conclusions)
+7. [What we learned](#what-we-learned)
+8. [References](#references)
 
 ---
 
 ## About Project
+
+Predicting the potential of elderly contracting cardiovascular disease
 
 ### Group Info
 <u>Lab Group:</u> FCEA
@@ -44,6 +44,4 @@ Team 9:
 
 ### References
 
-https://www.kaggle.com/datasets/datasnaek/youtube-new
-
-## About Codebase
+https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset
