@@ -64,6 +64,14 @@ We found that the Random Forest Classifier model had the highest accuracy out of
 
 ### Conclusions
 
+In this project we completed the data preparation and cleaning, exploration of data and visualisation techniques, and the machine learning model that to predict the presence of heart disease. 
+- Data preparation and cleaning: removes duplicate and unknown data, and organising of data. 
+- Explore and visualisation of data: made use of visualisation techniques to find the most significant variables for prediction. 
+  - Factors like *age* and *gender* are not correlated with presence of heart disease
+  - Factors like type of chest pain or number of major vessels are highly correlated with presence of heart disease
+- Machine Learning: Fitted 3 different models and evaluated the results using confusion matrix. 
+- **Final result:** Random forest classifier is the best performing model. 
+
 ### What we learned
 
 Through this project we learned how to collaborate with each other effectively for a coding project and other techniques for conducting data analysis:
